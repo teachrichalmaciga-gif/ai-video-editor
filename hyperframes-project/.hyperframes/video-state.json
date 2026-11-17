@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "historyId": "0c9aea00-c027-4c34-b2b0-8f4d1373c341",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/26/268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a"
+    },
+    "CLAUDE.md": {
+      "hash": "268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/26/268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "bb26a8f483c4b8ed34f95e1a3fd8bd97e06440351dcb1c24c71d2abdbb1a1d15",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/bb/bb26a8f483c4b8ed34f95e1a3fd8bd97e06440351dcb1c24c71d2abdbb1a1d15"
+    },
+    "meta.json": {
+      "hash": "1007417a2ca50dde96e65e5c6df22dcfd10060c2118d300a8f74cf877f007ec9",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/10/1007417a2ca50dde96e65e5c6df22dcfd10060c2118d300a8f74cf877f007ec9"
+    },
+    "package.json": {
+      "hash": "59d709781f4410cf8bd2c2ca5dfc97a0226b2c151729aa7ac640c18cedd57c13",
+      "content": "/home/teachrich/.cache/hyperframes/history/0c9aea00-c027-4c34-b2b0-8f4d1373c341/blobs/59/59d709781f4410cf8bd2c2ca5dfc97a0226b2c151729aa7ac640c18cedd57c13"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "2ade3ae2-9449-4057-bd42-e52daa57cc5b",
+      "completedAt": 1794303052054,
+      "output": "/mnt/d/AI VIDEO EDITOR/hyperframes-project/renders/hyperframes-project_2026-11-10_17-30-35.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

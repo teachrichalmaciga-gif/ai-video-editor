@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Nested project with its own Git repo (and a .env)
+remotion-project/
+
+# Secrets
+.env
+
+# Rendered / generated media (large binaries; regenerable)
+Exports/*.mp4
+renders/
+*.wav
+*.m4a
+dub-nayisa/vo/
+dub-nayisa/frames/*.jpg
+
+# Large source media folders
+Raw Footage/
