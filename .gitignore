@@ -4,6 +4,9 @@
 # Nested project with its own Git repo (and a .env)
 remotion-project/
 
+# Node dependencies (opencv-node is built inside WSL)
+node_modules/
+
 # Secrets
 .env
 

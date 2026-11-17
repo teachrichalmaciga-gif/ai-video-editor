@@ -1,0 +1,19 @@
+{
+  "name": "opencv-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenCV for Node.js (@u4/opencv4nodejs), built against Ubuntu's OpenCV in WSL",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "opencv4nodejs": {
+    "disableAutoBuild": "1",
+    "OPENCV_INCLUDE_DIR": "/usr/include/opencv4",
+    "OPENCV_LIB_DIR": "/usr/lib/x86_64-linux-gnu",
+    "OPENCV_BIN_DIR": "/usr/bin"
+  },
+  "dependencies": {
+    "@u4/opencv4nodejs": "^7.1.2"
+  }
+}
